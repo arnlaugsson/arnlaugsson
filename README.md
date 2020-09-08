@@ -9,4 +9,6 @@ I'm Skúli. I collaborate with talented people to create awesome digital product
 
 ## Blog posts 📒
 <!-- BLOG-POST-LIST:START -->
+- [Blogging like it's 1999](https://arnlaugsson.info/posts/2020/09/blogsystem/)
+- [F**k it, I want to learn...](https://arnlaugsson.info/posts/2020/09/originstory/)
 <!-- BLOG-POST-LIST:END -->

@@ -8,6 +8,9 @@ I'm Skúli. I collaborate with talented people to create awesome digital product
 - ⚡ Fun fact: I've been off and on in choirs for close to 24 years, and I barely can read sheet music.
 
 ## Blog posts 📒
+
+I've recently started blogging about things that I learn, or want to learn.
+
 <!-- BLOG-POST-LIST:START -->
 - [Blogging like it's 1999](https://arnlaugsson.info/posts/2020/09/blogsystem/)
 - [F**k it, I want to learn...](https://arnlaugsson.info/posts/2020/09/originstory/)

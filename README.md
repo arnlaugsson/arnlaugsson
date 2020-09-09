@@ -12,6 +12,7 @@ I'm Skúli. I collaborate with talented people to create awesome digital product
 I've recently started blogging about things that I learn, or want to learn.
 
 <!-- BLOG-POST-LIST:START -->
+- [Trivia Questions](https://arnlaugsson.info/posts/2020/09/triviagame/)
 - [Blogging like it's 1999](https://arnlaugsson.info/posts/2020/09/blogsystem/)
 - [Show my latest posts on my Github profile](https://arnlaugsson.info/posts/2020/09/blogflow/)
 - [F**k it, I want to learn...](https://arnlaugsson.info/posts/2020/09/originstory/)

@@ -11,6 +11,7 @@ I'm Skúli. I collaborate with talented people to create awesome digital product
 I've recently started blogging about things that I learn, or want to learn. Being back to work and having three kids means I don't spend alot of time blogging though.
 
 <!-- BLOG-POST-LIST:START -->
+- [Alexa, turn on Broadway!](https://arnlaugsson.info/posts/2020/10/homeautomation/)
 - [Trivia Questions](https://arnlaugsson.info/posts/2020/09/triviagame/)
 - [Blogging like it's 1999](https://arnlaugsson.info/posts/2020/09/blogsystem/)
 - [Show my latest posts on my Github profile](https://arnlaugsson.info/posts/2020/09/blogflow/)

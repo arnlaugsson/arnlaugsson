@@ -4,6 +4,7 @@ I'm Skúli. I collaborate with talented people to create awesome digital product
 
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me: <a href="mailto:skuli@hey.com">skuli@hey.com</a>
+- 👨‍👩‍👧‍👦‍👧 Father of three, engaged to be married
 - 🙈 Fun fact: I've been off and on in choirs for close to 24 years, and I barely can read sheet music.
 
 ## Blog posts 📒

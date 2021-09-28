@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm Skúli. I collaborate with talented people to create awesome digital products and services. I work for <a href="https://kolibri.is">Kolibri</a>.
+I'm Skúli. I collaborate with talented people to create awesome digital products and services.
 
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me: <a href="mailto:skuli.arnlaugsson@gmail.com">skuli.arnlaugsson@gmail.com</a>
-- 👨‍👩‍👧‍👦‍👧 Father of three, engaged to be married
-- 🙈 Fun fact: I've been off and on in choirs for close to 24 years, and I barely can read sheet music.
+- 👨‍👩‍👧‍👦‍👧 Father of three, one on the way, engaged to be married.
 
 ## Blog posts 📒
 

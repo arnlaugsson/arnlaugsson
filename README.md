@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I'm Skúli. I collaborate with talented people to create awesome digital products and services. Working for [Gangverk](https://www.gangverk.is) and a parttime teacher at [Reykjavík University](https://www.ru.is).
+I'm Skúli. I collaborate with talented people to create awesome digital products and services. Working for [Gangverk](https://www.gangverk.is).
 
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me: <a href="mailto:skuli.arnlaugsson@gmail.com">skuli.arnlaugsson@gmail.com</a>
-- 👨‍👩‍👧‍👦‍👧 Father of three, one on the way, engaged to be married.
+- 🏡 Father of four, engaged to be married.
+- 📚 Student of Positive Psychology.
 - 🛠 Tinkerer.
 
 ## Blog posts 📒
-
-I've ~recently~ started blogging about things that I learn, or want to learn. Being back to work and having three kids means I don't spend alot of time blogging though.
+Not actively blogging.
 
 <!-- BLOG-POST-LIST:START -->
 - [100 Days Of Code](https://arnlaugsson.info/posts/2021/05/100days/)

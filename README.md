@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Skúli. I collaborate with talented people to create awesome digital products and services. Working for [Gangverk](https://www.gangverk.is). Have been working in the Health Tech industry over the last year as a Delivery Lead.
+I'm Skúli. I collaborate with talented people to create awesome digital products and services. Working for [Gangverk](https://www.gangverk.is). Have been working in the Health Tech industry for almost two years (!) as a Delivery Lead.
 
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me
